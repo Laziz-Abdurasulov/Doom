@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "index_html": "html",
+        "SERSETUP.C": "cpp",
+        "DOOMNET.C": "cpp",
+        "IPXNET.C": "cpp",
+        "IPXSETUP.C": "cpp"
+    }
+}
